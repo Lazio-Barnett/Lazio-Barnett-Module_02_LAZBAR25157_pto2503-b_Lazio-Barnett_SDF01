@@ -1,4 +1,4 @@
-# Challenge: My First Repo 🚀
+# Here's the intial commit for my first GitHub projec, diving into the owrld of Git and coding! 🚀
 
 # 👋 Hi, I'm Lazio Barnett
 
