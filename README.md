@@ -4,7 +4,7 @@
 
 🌱 Beginner Software Developer | 🚀 Excited to Learn & Build
 
---- Ready to learn and make an impact in the coding world!
+Ready to learn and make an impact in the coding world!
 
 ## 🎯 About Me
 
