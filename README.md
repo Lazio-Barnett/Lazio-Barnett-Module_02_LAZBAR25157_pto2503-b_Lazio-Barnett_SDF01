@@ -4,7 +4,7 @@
 
 🌱 Beginner Software Developer | 🚀 Excited to Learn & Build
 
----
+--- Ready to learn and make an impact in the coding world!
 
 ## 🎯 About Me
 
@@ -74,7 +74,7 @@ Here are some of my milestone projects (to be updated as I progress!):
 
 ## 🚀 Fun Fact
 
-💡 I love learning new things and can't wait to build my first website!
+💡 I love coding because I believe there is always a set of rule to do anything that in return gives you the best possible outcome
 
 ---
 
