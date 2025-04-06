@@ -1,6 +1,6 @@
-# [SDF01] Challenge: My First Repo 🚀
+# Challenge: My First Repo 🚀
 
-# 👋 Hi, I'm [Lazio Barnett]
+# 👋 Hi, I'm Lazio Barnett
 
 🌱 Beginner Software Developer | 🚀 Excited to Learn & Build
 
@@ -74,9 +74,9 @@ Here are some of my milestone projects (to be updated as I progress!):
 
 ## 🚀 Fun Fact
 
-💡 I love coding because I believe there is always a set of rule to do anything that in return gives you the best possible outcome
+💡 I'm diving into my first coding project with real excitement! What draws me to programming is the inherent logic - the idea that there's a clear set of rules you can follow to achieve the most effective and elegant solutions. I'm eager to apply this mindset to bring my project to life.
 
----
+
 
 ## 🏆 GitHub Stats
 
